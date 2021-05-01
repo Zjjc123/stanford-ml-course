@@ -19,3 +19,10 @@ Jupyter Notebook by Jason Zhang
 
 
 <img src="./week-2/images/graph-1.png" width="340" height="300" />
+
+## Week 3
+### Implementations
+
+* [Logistic Regression](https://github.com/Zjjc123/stanford-ml-course/blob/main/week-3/2.Logistic%20Regression.ipynb)
+
+<img src="./week-3/images/cost.png" width="360" height="300" />
